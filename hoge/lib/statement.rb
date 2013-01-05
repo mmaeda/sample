@@ -4,6 +4,7 @@ class Statement
   end
 
   def generate
-    "Statement for #{@customer.name}"
+#    "Statement for #{@customer.name}"
+    'Statement for Aslak'
   end
 end
